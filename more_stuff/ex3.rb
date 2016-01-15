@@ -1,0 +1,1 @@
+# Exception handling is to handle errors that could occure in a program. It is a way to control the flow of the program so it would not exit prematurely.
